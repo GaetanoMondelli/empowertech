@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/empowertech/static/css/main.073c9b0a.css",
-    "main.js": "/empowertech/static/js/main.88ef6755.js",
+    "main.css": "/empowertech/static/css/main.e6c13ad2.css",
+    "main.js": "/empowertech/static/js/main.f2d93906.js",
     "static/js/787.e1aad0ee.chunk.js": "/empowertech/static/js/787.e1aad0ee.chunk.js",
     "index.html": "/empowertech/index.html",
-    "main.073c9b0a.css.map": "/empowertech/static/css/main.073c9b0a.css.map",
-    "main.88ef6755.js.map": "/empowertech/static/js/main.88ef6755.js.map",
+    "main.e6c13ad2.css.map": "/empowertech/static/css/main.e6c13ad2.css.map",
+    "main.f2d93906.js.map": "/empowertech/static/js/main.f2d93906.js.map",
     "787.e1aad0ee.chunk.js.map": "/empowertech/static/js/787.e1aad0ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.88ef6755.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f2d93906.js"
   ]
 }
